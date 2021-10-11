@@ -30,7 +30,7 @@ async function main() {
      * and set them as desired. Visit: https://www.npmjs.com/package/express-session
      */
     const sessionConfig = {
-        secret: 'JSo7Q~ArWTCv.UWYZaeJI.MUWVl_4JIM0r0L.',
+        secret: 'ADD SECRET',
         resave: false,
         saveUninitialized: false,
         cookie: {
